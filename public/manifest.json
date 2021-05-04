@@ -1,9 +1,0 @@
-{
-  "short_name": "SCPSL Team Queue Helper",
-  "name": "SCPSL Team Queue Helper",
-  "icons": [],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#3f3c4b"
-}
